@@ -7,16 +7,8 @@
 	text-decoration: none;
 }
 
-ul {
-	padding: 0;
-}
-
-p {
-	margin: 0;
-}
-
 body{
-	position: relative; font-weight: 500;
+	position: relative;
 	margin: 0;
 	padding: 0; 
 	list-style: none;
@@ -111,14 +103,15 @@ button.move i{padding: 5px; font-size: 32px;}
 .proj-center h1 {
 	color: #04088a;
 	font-size: 2.5rem;
-	font-weight:bolder;
+	font-weight: 600;
+	margin: 2.5rem;
 }
 
 .proj-center h4 {
 	color: #ee72d8;
-	letter-spacing: 0.25rem;
+	letter-spacing: 0.2rem;
 	margin-top: -1.2rem;
-	margin-bottom: 4rem;
+	margin-bottom: 5rem;
 }
 
 /* slick 부분 */
@@ -447,8 +440,8 @@ footer{
     /*프로젝트 타이틀 */
     .proj-center h1 {
          color: #04088a;
-        font-size: 1.5rem;
-        font-weight:bolder;  
+        font-size: 2rem;
+        font-weight: 600;  
     }
 
     .proj-center .proj-box-wrapper .proj-box p {   
