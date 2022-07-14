@@ -621,14 +621,14 @@ footer{
 	.cus_wrap .eco-clean-earth p:last-child{font-size: 20px;}
 	/* 유진씨파트 */
 	.box_wrap img{margin: 53px 0;}
-	.box_wrap{height: 320px;}
+	.box_wrap{height: 50%;}
 
     .clients-img-wrap ul li p{font-size: 14px;}
     .clients-img-wrap ul li img{padding: 12px;}
 
 	/* 제민씨파트  지도의 크기 변화 및, 글의 배치 1줄로 변경*/
 	.map-wrap .map-info-wrap{
-		flex-direction:column;
+		margin-bottom:110px;
 	}
 	.map-wrap .map-info-wrap .map-info{
 		width:100%;
