@@ -310,6 +310,7 @@ footer{
 .footer_wrap .footer_info{
 	display:flex;
 	flex-wrap:wrap;
+	max-width: 1130px;
 }
 .footer_wrap .footer_info p{
 	margin:0;
